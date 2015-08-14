@@ -16,7 +16,7 @@ Coding Questions
 Fun Questions
 
 ---------------------------------------------------------------------------------------
-General Questions:
+General Questions (19 total):
 
 What did you learn yesterday/this week?
 What excites or interests you about coding?
