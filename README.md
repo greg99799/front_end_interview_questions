@@ -4,7 +4,7 @@ This will be an evolving document. I will provide my answers with the date given
 
 Let's do it!
 
-####Week of Aug 9, 2015
+####August
 
 [Aug 13, 2015](https://github.com/greg99799/front_end_interview_questions/blob/master/answers/8_13_2015.md)
 
